@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbeSchor916/test123.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbeSchor916/test123/issues"
+  },
+  "homepage": "https://github.com/AbeSchor916/test123#readme",
+  "devDependencies": {
+    "electron": "^3.0.7"
+  },
+  "dependencies": {
+    "electron-updater": "^3.1.6"
+  }
+}
